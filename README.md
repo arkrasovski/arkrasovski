@@ -47,7 +47,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-![alt text](https://sun9-west.userapi.com/sun9-7/s/v1/ig2/CRbkFpBUoRExHjDM3lLvz3UJkbeTRq1sAMF1Qno4s9DQRVwrDru4QSjnEg744pDHqPamfp1UJg-vdyjt1cZuPhZi.jpg?size=1000x1000&quality=95&type=album)
+![weptashka`s moon](https://sun9-west.userapi.com/sun9-7/s/v1/ig2/CRbkFpBUoRExHjDM3lLvz3UJkbeTRq1sAMF1Qno4s9DQRVwrDru4QSjnEg744pDHqPamfp1UJg-vdyjt1cZuPhZi.jpg?size=1000x1000&quality=95&type=album "weptashka`s moon")
 <!--
 **arkrasovski/arkrasovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
