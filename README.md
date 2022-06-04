@@ -15,7 +15,8 @@
 </h1>
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 
 - :computer: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -48,7 +49,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-![weptashka`s moon](https://sun9-west.userapi.com/sun9-7/s/v1/ig2/CRbkFpBUoRExHjDM3lLvz3UJkbeTRq1sAMF1Qno4s9DQRVwrDru4QSjnEg744pDHqPamfp1UJg-vdyjt1cZuPhZi.jpg?size=1000x1000&quality=95&type=album "weptashka&#8216;s moon")
+![weptashka`s moon](https://sun9-west.userapi.com/sun9-7/s/v1/ig2/CRbkFpBUoRExHjDM3lLvz3UJkbeTRq1sAMF1Qno4s9DQRVwrDru4QSjnEg744pDHqPamfp1UJg-vdyjt1cZuPhZi.jpg?size=1000x1000&quality=95&type=album "weptashka‘s moon")
+
 <!--
 **arkrasovski/arkrasovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
