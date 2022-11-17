@@ -25,7 +25,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :camera_flash: in my free time i go for walks and photography .
 
 - :e-mail: How to reach me: [![vk Badge](https://img.shields.io/badge/-vk-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/akrasovsky2013)
--                           [![telegram Badge](https://img.shields.io/badge/-tg-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/arkrasovski)
+- [![telegram Badge](https://img.shields.io/badge/-tg-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/arkrasovski)
 
 ---
 
