@@ -22,10 +22,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :books: Exploring Technical Content Writing.
 
-- :camera_flash: in my free time i go for walks and photography .
+- :camera_flash: in my free time I go for walks and photography .
 
-- :e-mail: How to reach me: [![vk Badge](https://img.shields.io/badge/-vk-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/akrasovsky2013)
-- [![telegram Badge](https://img.shields.io/badge/-tg-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/arkrasovski)
+- :e-mail: How to reach me: [![vk Badge](https://img.shields.io/badge/-vk-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/akrasovsky2013) [![telegram Badge](https://img.shields.io/badge/-tg-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/arkrasovski) [![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat&logo=discord&logoColor=white)](https://discord.com/channels/@me/269467758838677506)
 
 ---
 
@@ -42,6 +41,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ---
@@ -49,8 +49,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkrasovski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-![weptashka`s moon](https://sun9-west.userapi.com/sun9-7/s/v1/ig2/CRbkFpBUoRExHjDM3lLvz3UJkbeTRq1sAMF1Qno4s9DQRVwrDru4QSjnEg744pDHqPamfp1UJg-vdyjt1cZuPhZi.jpg?size=1000x1000&quality=95&type=album "weptashka‘s moon")
 
 <!--
 **arkrasovski/arkrasovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
