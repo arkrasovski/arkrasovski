@@ -7,6 +7,8 @@
 
 I am a Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 
+- :bookmark_tabs: my resume [![gh Badge](https://img.shields.io/badge/-resume-black?style=flat&logo=github&logoColor=white)](https://arkrasovski.github.io/rezume/)
+
 - :computer: I’m a student of web-specialty and I'm trying to develop in a new direction - Java development.
 
 - :books: I study technical lessons
