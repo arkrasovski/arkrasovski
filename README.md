@@ -1,29 +1,21 @@
-<div id="header" align="center">
+<div id="header">
     <h1>Hi there, I`m Artyom</h1>
-    ---
     <h3>Java developer :coffee:</h3>
-</div>
----
-<div id="badges" align="center">
-  <a href="https://vk.com/akrasovsky2013">
-    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
-  </a>
-  <a href="https://www.instagram.com/arkrasovskif/?hl=ru">
-    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
-  </a>
 </div>
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+I am a Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 
-- :computer: I’m a student of web-specialty and contributing to frontend and backend for building web applications.
+- :computer: I’m a student of web-specialty and I'm trying to develop in a new direction - Java development.
 
 - :books: I study technical lessons
 
-- :camera_flash: in my free time I go for walks and photography .
+- :camera_flash: in my free time I go for walks and photography
 
-- :e-mail: How to reach me: [![vk Badge](https://img.shields.io/badge/-vk-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/akrasovsky2013) [![telegram Badge](https://img.shields.io/badge/-tg-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/arkrasovski) [![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat&logo=discord&logoColor=white)](https://discord.com/channels/@me/269467758838677506)
+- :video_game: My main dream is to create Belarus in minecraft [![YT Badge](https://img.shields.io/badge/-vk-blue?style=flat&logo=vk&logoColor=white](channel/UC6kqC23RsBy_dHA0V0m5QfA)
+
+- :e-mail: How to reach me: [![vk Badge](https://img.shields.io/badge/-vk-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/akrasovsky2013) [![telegram Badge](https://img.shields.io/badge/-tg-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/arkrasovski) [![Discord Badge]([https://img.shields.io/badge/-Discord-blue?style=flat&logo=discord&logoColor=white](https://img.shields.io/badge/-discord-gray?style=flat&logo=discord&logoColor=white))](https://discord.com/channels/@me/269467758838677506) [![instagram Badge](https://img.shields.io/badge/-vk-blue?style=flat&logo=vk&logoColor=white)](https://www.instagram.com/arkrasovskif/?hl=ru)
 
 ---
 
