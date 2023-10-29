@@ -1,6 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47viz02i49y2zjtumwbsneyu9plsdebngfbn7vgxo5&rid=giphy.gif&ct=g"/>
+    <h1>Hi there, I`m Artyom</h1>
+    ---
+    <h3>Java developer :coffee:</h3>
 </div>
+---
 <div id="badges" align="center">
   <a href="https://vk.com/akrasovsky2013">
     <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
@@ -9,10 +12,6 @@
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
 </div>
-<h1  align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-</h1>
 
 ### :man_technologist: About Me :
 
