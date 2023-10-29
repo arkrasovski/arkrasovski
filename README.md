@@ -13,9 +13,9 @@ I am a Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :camera_flash: in my free time I go for walks and photography
 
-- :video_game: My main dream is to create Belarus in minecraft [![YT Badge](https://img.shields.io/badge/-vk-blue?style=flat&logo=vk&logoColor=white](channel/UC6kqC23RsBy_dHA0V0m5QfA)
+- :video_game: My main dream is to create Belarus in minecraft [![YT Badge](https://img.shields.io/badge/-vk-blue?style=flat&logo=vk&logoColor=white)](channel/UC6kqC23RsBy_dHA0V0m5QfA)
 
-- :e-mail: How to reach me: [![vk Badge](https://img.shields.io/badge/-vk-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/akrasovsky2013) [![telegram Badge](https://img.shields.io/badge/-tg-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/arkrasovski) [![Discord Badge]([https://img.shields.io/badge/-Discord-blue?style=flat&logo=discord&logoColor=white](https://img.shields.io/badge/-discord-gray?style=flat&logo=discord&logoColor=white))](https://discord.com/channels/@me/269467758838677506) [![instagram Badge](https://img.shields.io/badge/-vk-blue?style=flat&logo=vk&logoColor=white)](https://www.instagram.com/arkrasovskif/?hl=ru)
+- :e-mail: How to reach me: [![vk Badge](https://img.shields.io/badge/-vk-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/akrasovsky2013) [![telegram Badge](https://img.shields.io/badge/-tg-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/arkrasovski) [![Discord Badge]([https://img.shields.io/badge/-Discord-blue?style=flat&logo=discord&logoColor=white)](https://img.shields.io/badge/-discord-gray?style=flat&logo=discord&logoColor=white))](https://discord.com/channels/@me/269467758838677506) [![instagram Badge](https://img.shields.io/badge/-vk-blue?style=flat&logo=vk&logoColor=white)](https://www.instagram.com/arkrasovskif/?hl=ru)
 
 ---
 
