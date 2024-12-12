@@ -41,7 +41,7 @@ I am a Data engineer 🐍 from Belarus.
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" **alt="Pytorch" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-line.sv" title="Pandas" **alt="Pandas" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-line.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" **alt="Matplotlib" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" **alt="Scikit-learn" width="40" height="40"/>
 </div>
